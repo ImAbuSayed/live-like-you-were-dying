@@ -15,7 +15,7 @@
 | **Written On** | May 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/live-like-you-were-dying/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Live Like You Were Dying](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/live-like-you-were-dying/) |
+| **Get License** | [Secure Licensing Rights for Live Like You Were Dying](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/live-like-you-were-dying/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `70a02007f0c15a010cf30defbadc1931713a46cead62860635ee72673a53a258` |
 | **Timestamp** | May 22, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
