@@ -15,7 +15,7 @@
 | **Written On** | May 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/live-like-you-were-dying/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Live Like You Were Dying](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/live-like-you-were-dying/) |
+| **Get License** | [License this song: Live Like You Were Dying](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/live-like-you-were-dying/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Pouring whiskey in the fading light
+> Craving the heat of your skin tonight
+> Drawing you closer into the frame
+> Burning the rules in this midnight game
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
